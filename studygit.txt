@@ -1,0 +1,16 @@
+一、初始化一个Git仓库
+1、首先创建一个文件夹 mkdir filename
+
+2、pwd filename  进入该文件夹
+
+3、git init filename  将该文件夹设置为git仓库
+
+二、添加文件到Git仓库，主要是两步：
+
+1、使用命令git add filename 将这个文本文件加入到Git，可反复多次使用，添加多个
+
+2、使用命令git commit -m "备注信息" 完成添加
+
+注意：多个add之后，可用commit同时添加多个文本文件
+
+
