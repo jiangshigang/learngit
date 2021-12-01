@@ -13,4 +13,8 @@
 
 注意：多个add之后，可用commit同时添加多个文本文件
 
+三、随时掌握工作区的状态，使用git status 命令
 
+1、随时掌握工作区的状态，使用git status命令
+
+2、如果使用git status告诉你有文件被修改过，用git diff可以查看修改的内容
